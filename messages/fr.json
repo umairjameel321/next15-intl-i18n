@@ -1,0 +1,19 @@
+{
+  "NavbarLinks": {
+    "home": "Accueil",
+    "homeTitle": "Page d'accueil",
+    "about": "À propos",
+    "aboutTitle": "Page d'à propos",
+    "profile": "Profil",
+    "profileTitle": "Page de profil"
+  },
+  "HomePage": {
+    "title": "Page d'atterrissage"
+  },
+  "AboutPage": {
+    "title": "À propos"
+  },
+  "ProfilePage": {
+    "title": "Profil"
+  }
+}
